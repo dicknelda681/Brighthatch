@@ -1,5 +1,4 @@
 <?php include('header.php');
-   include('popup.php');
    ?>
 <!-- Start slider -->
 <div class="slider-area" id="home">
